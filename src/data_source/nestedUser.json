@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Emrul Hasan",
+        "passion":"Programming",
+        "phones":[
+            {"home":"01111111111"},
+            {"office":"022222222"}
+        ]
+    },
+    {
+        "name": "Emrul Hasan 2",
+        "passion":"Programming",
+        "phones":[
+            {"home":"01111111111"},
+            {"office":"022222222"}
+        ]
+    }
+    
+    
+]
